@@ -1,0 +1,2 @@
+/Users/rogergirgis/Documents/android_apps/WSApplication/openAL4Android/.externalNativeBuild/cmake/externalNativeBuild/armeabi/CMakeFiles/edit_cache.dir
+/Users/rogergirgis/Documents/android_apps/WSApplication/openAL4Android/.externalNativeBuild/cmake/externalNativeBuild/armeabi/CMakeFiles/rebuild_cache.dir

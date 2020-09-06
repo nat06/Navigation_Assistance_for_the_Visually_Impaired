@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rogergirgis/Documents/android_apps/WSApplication/openAL4Android/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_ic_launcher.png.flat",
+        "source": "/Users/rogergirgis/Documents/android_apps/WSApplication/openAL4Android/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rogergirgis/Documents/android_apps/WSApplication/openAL4Android/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/rogergirgis/Documents/android_apps/WSApplication/openAL4Android/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rogergirgis/Documents/android_apps/WSApplication/openAL4Android/build/intermediates/res/merged/androidTest/debug/layout_main.xml.flat",
+        "source": "/Users/rogergirgis/Documents/android_apps/WSApplication/openAL4Android/build/intermediates/bundles/debug/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/rogergirgis/Documents/android_apps/WSApplication/openAL4Android/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/rogergirgis/Documents/android_apps/WSApplication/openAL4Android/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    }
+]

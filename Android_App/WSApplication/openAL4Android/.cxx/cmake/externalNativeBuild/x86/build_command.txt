@@ -1,0 +1,21 @@
+Executable : /Users/nathanpollet/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/nathanpollet/Downloads/App_Code_Original_Roger2/WSApplication/openAL4Android
+-DCMAKE_FIND_ROOT_PATH=/Users/nathanpollet/Downloads/App_Code_Original_Roger2/WSApplication/openAL4Android/.cxx/cmake/externalNativeBuild/prefab/x86/prefab
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_TOOLCHAIN_FILE=/Users/nathanpollet/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=x86
+-DANDROID_NDK=/Users/nathanpollet/Library/Android/sdk/ndk/21.0.6113669
+-DANDROID_PLATFORM=android-16
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DCMAKE_ANDROID_NDK=/Users/nathanpollet/Library/Android/sdk/ndk/21.0.6113669
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/nathanpollet/Downloads/App_Code_Original_Roger2/WSApplication/openAL4Android/build/intermediates/cmake/externalNativeBuild/obj/x86
+-DCMAKE_MAKE_PROGRAM=/Users/nathanpollet/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=16
+-B/Users/nathanpollet/Downloads/App_Code_Original_Roger2/WSApplication/openAL4Android/.cxx/cmake/externalNativeBuild/x86
+-GNinja
+jvmArgs : 
+
+Build command args:

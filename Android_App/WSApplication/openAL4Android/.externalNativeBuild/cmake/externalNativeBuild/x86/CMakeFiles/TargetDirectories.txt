@@ -1,0 +1,2 @@
+/home/rogerg/Documents/WalkingStraight/WSApplication/openAL4Android/.externalNativeBuild/cmake/externalNativeBuild/x86/CMakeFiles/edit_cache.dir
+/home/rogerg/Documents/WalkingStraight/WSApplication/openAL4Android/.externalNativeBuild/cmake/externalNativeBuild/x86/CMakeFiles/rebuild_cache.dir

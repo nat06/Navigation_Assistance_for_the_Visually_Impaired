@@ -1,0 +1,2 @@
+/Users/nathanpollet/Downloads/App_Code_Original_Roger2/WSApplication/openAL4Android/.cxx/cmake/externalNativeBuild/x86/CMakeFiles/rebuild_cache.dir
+/Users/nathanpollet/Downloads/App_Code_Original_Roger2/WSApplication/openAL4Android/.cxx/cmake/externalNativeBuild/x86/CMakeFiles/edit_cache.dir

@@ -1,0 +1,12 @@
+{
+  "buildFiles": [
+    "/Users/nathanpollet/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/nathanpollet/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/nathanpollet/Downloads/App_Code_Original_Roger2/WSApplication/openAL4Android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/nathanpollet/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/nathanpollet/Downloads/App_Code_Original_Roger2/WSApplication/openAL4Android/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/nathanpollet/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/nathanpollet/Downloads/App_Code_Original_Roger2/WSApplication/openAL4Android/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {}
+}

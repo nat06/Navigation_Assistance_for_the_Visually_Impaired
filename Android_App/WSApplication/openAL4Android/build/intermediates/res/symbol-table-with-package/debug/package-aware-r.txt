@@ -1,0 +1,5 @@
+org.pielot.openal
+drawable ic_launcher
+layout main
+string app_name
+string hello

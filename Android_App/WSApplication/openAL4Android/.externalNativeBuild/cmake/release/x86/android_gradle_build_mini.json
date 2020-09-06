@@ -1,0 +1,9 @@
+{
+  "buildFiles": [
+    "/home/rogerg/Documents/WalkingStraight/WSApplication/openAL4Android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/opt/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/rogerg/Documents/WalkingStraight/WSApplication/openAL4Android/.externalNativeBuild/cmake/release/x86 --target clean"
+  ],
+  "libraries": {}
+}

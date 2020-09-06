@@ -8,7 +8,7 @@ The work described here, along with the code in this repository, focuses on the 
 Professor Jeremy R. Cooperstock, Department of Electrical and Computer Engineering, Centre for Intelligent Machines, McGill University, jer@cim.mcgill.ca  
 http://www.cim.mcgill.ca
 
-## Repo description
+## Repo description 📝
 NOTE: for each sub-task/item, the corresponding code is given in the form of both separate functions (separate Python files) and a comprehensive Jupyter Notebook structured sequentially. Code should be ran in an appropriate virtual environment set-up with the necessary dependencies (see  Deep Learning section).
   
 This repository contains code for:

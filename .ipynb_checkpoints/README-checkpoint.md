@@ -44,6 +44,6 @@ The full code for image extraction __and__ labelling can also be found in _compr
 Transfer Learning is performed using several pretrained models (SqueezeNet, DenseNet, ResNet, VGG, MobileNet...) whose architectures are modified to fit our needs. Feature extraction or finetuning can be performed depending on the task at hand. Code for Deep Learning in both PyTorch and Tensorflow (version 2 __and__ version 1) is available.   
 In order for the Deep Learning model to be successfully ported over to the current Android app, the following should be observed:
 - Deep Learning models must be obtained from Tensorflow
-- (Re)trained models must be compatible with/obtained from Tensorflow versions $\leq$ 1.13 
+- (Re)trained models must be compatible with/obtained from Tensorflow versions ≤ 1.13 
 - The Frozen graph of the model must be generated and used
 

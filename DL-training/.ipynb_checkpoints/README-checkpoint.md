@@ -8,7 +8,7 @@ Deep Learning / Transfer Learning code available for:
 
 ### Dependencies for Tensorflow version 1
 - Python 3.6.3
-- Tensorflow 1.12.0 (Tf version $\leq$ 1.13 necessary for compatibility with the Android app)
+- Tensorflow 1.12.0 (Tf version ≤ 1.13 necessary for compatibility with the Android app)
 - Keras  2.2.4
 - PIL
 

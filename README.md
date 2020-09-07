@@ -34,7 +34,7 @@ The code performing the tasks mentioned above is contained in the __image-extrac
 Images downloaded are processed and labelled. The processing part consists in dividing up the images into 7 vertical action spaces, making for an 8-label prediction problem (7 action spaces + the unknown action). By virtue of symmetry, the following data augmentation step is performed: each labelled image can be mirrored around its central vertical axis and the resulting flipped image can be automatically labelled with the corresponding inverse action (i.e. swapping left-to-right with right-to-left).   
 A couple notes:
 - __Open CV__ is necessary for image processing and labelling
-- Code is provided for labeling images and merging the resulting data into the existing Google Street View image dataset  
+- Code is provided for labelling images and merging the resulting data into the existing Google Street View image dataset  
 
 The code performing the tasks mentioned above is contained in the __image-extraction-and-labelling__ folder, in _image-labelling.py_
 
